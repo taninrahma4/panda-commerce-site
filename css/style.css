@@ -4,6 +4,18 @@
 .carousel-item{
   background-color: #fceae8;
 }
+.price{
+  color:#FF136F;
+}
+.categories1{
+  background-color: orange;
+}
+.categories2{
+  background-color: orchid;
+}
+.categories3{
+  background-color: rgb(108, 108, 161);
+}
 .buy-now-btn{
   background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
   color: #fff;
