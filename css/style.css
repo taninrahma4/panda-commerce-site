@@ -1,0 +1,24 @@
+.nav-section{
+  margin-bottom: 100px;
+}
+.carousel-item{
+  background-color: #fceae8;
+}
+.buy-now-btn{
+  background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.categories1 img,.categories2 img,.categories3 img{
+  width: 120px;
+}
+.subscribe-section{
+  padding: 60px 0;
+  background-color: #fceae8;
+}
+footer{
+margin-top: 60px;
+}
