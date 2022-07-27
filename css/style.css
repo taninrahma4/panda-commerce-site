@@ -1,5 +1,6 @@
-.nav-section{
-  margin-bottom: 100px;
+
+.carousel-section{
+  margin-top: 100px;
 }
 .carousel-item{
   background-color: #fceae8;
@@ -15,6 +16,9 @@
 }
 .categories3{
   background-color: rgb(108, 108, 161);
+}
+#shoes,#backpack{
+  padding-top: 80px;
 }
 .buy-now-btn{
   background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
